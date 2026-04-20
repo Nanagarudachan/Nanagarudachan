@@ -48,8 +48,8 @@
 
 ## 📫 Kontakt
 
-* 💼 LinkedIn: (optional einfügen)
-* 📧 Email: (optional)
+* 💼 LinkedIn: Nope
+* 📧 Email: sarah.guentzel@smartfuturecampus.onmicrosoft.com
 
 ---
 
