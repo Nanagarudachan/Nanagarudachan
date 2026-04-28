@@ -33,8 +33,8 @@
 ## 🔥 Projekte
 
 * 📊 Sales Dashboard mit Power BI (in Arbeit)
-* 🗄️ SQL Analyse Projekt (in Arbeit)
-* ☁️ Azure Mini Projekt (kommt bald)
+* 🗄️ SQL Analyse Projekt (Pokemon Trading Card)
+* ☁️ Azure Mini Projekt (GitHub)
 
 ---
 
