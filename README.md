@@ -48,7 +48,7 @@
 
 ## 📫 Kontakt
 
-* 💼 LinkedIn: Nope
+* 💼 GutHub: https://github.com/Nanagarudachan
 * 📧 Email: sarah.guentzel@smartfuturecampus.onmicrosoft.com
 
 ---
