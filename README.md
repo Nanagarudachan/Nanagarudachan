@@ -2,27 +2,27 @@
 
 # 👋 Hi, ich bin Nana und Sie sind die Nummer  <img src="https://komarev.com/ghpvc/?username=Nanagarudachan&style=flat-square&label=" /> 👋
 
-💻 Anfänger in der Softwareentwicklung & Data Analytics
-📊 Fokus aktuell: **SQL, Microsoft Azure und Power BI**
-🚀 Ziel: Daten verstehen, analysieren und in echte Projekte umsetzen
+Anfänger in der Softwareentwicklung & Data Analytics
+Fokus aktuell: **SQL, Microsoft Azure und Power BI**
+Ziel: Daten verstehen, analysieren und in echte Projekte umsetzen
 
 ---
 
-## ⚡ Über mich
+## Über mich
 
-* 📚 Ich lerne aktuell Datenanalyse & Cloud
-* 🧠 Interesse an Data, Business Intelligence & Automatisierung
-* 🎯 Ziel: Eigene Data-Projekte bauen
+* Ich lerne aktuell Datenanalyse & Cloud
+* Interesse an Data, Business Intelligence & Automatisierung
+* Ziel: Eigene Data-Projekte bauen
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=azure,python,git)
 
 ---
 
-## 📊 Tools & Technologien
+## Tools & Technologien
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
@@ -30,15 +30,15 @@
 
 ---
 
-## 🔥 Projekte
+## Projekte
 
-* 📊 Sales Dashboard mit Power BI (in Arbeit)
-* 🗄️ SQL Analyse Projekt (Pokemon Trading Card)
-* ☁️ Azure Mini Projekt (GitHub)
+* Sales Dashboard mit Power BI (in Arbeit)
+* SQL Analyse Projekt (Pokemon Trading Card)
+* Azure Mini Projekt (GitHub)
 
 ---
 
-## 🎯 Ziele 2026
+## Ziele 2026
 
 * [ ] 3 Data-Projekte veröffentlichen
 * [ ] Power BI Dashboards verbessern
@@ -48,8 +48,8 @@
 
 ## 📫 Kontakt
 
-* 💼 GutHub: https://github.com/Nanagarudachan
-* 📧 Email: sarah.guentzel@smartfuturecampus.onmicrosoft.com
+* GutHub: https://github.com/Nanagarudachan
+* Email: sarah.guentzel@smartfuturecampus.onmicrosoft.com
 
 ---
 
