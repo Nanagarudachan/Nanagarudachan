@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Willkommen+auf+meinem+GitHub!;Data+Analytics+Journey)
 
-# 👋 Hi, ich bin Nana und Sie sind die Nummer  <img src="https://komarev.com/ghpvc/?username=Nanagarudachan&style=flat-square&label=" /> 👋
+# Hi, ich bin Nana und Sie sind die Nummer  <img src="https://komarev.com/ghpvc/?username=Nanagarudachan&style=flat-square&label=" /> 
 
 Anfänger in der Softwareentwicklung & Data Analytics
 Fokus aktuell: **SQL, Microsoft Azure und Power BI**
